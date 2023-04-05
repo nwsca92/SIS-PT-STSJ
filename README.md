@@ -1,2 +1,21 @@
 # SIS-PT-STSJ
 STSJ - Sparepart Integrated Services
+
+![Android App - Portofolio - Nanang Wudy SCA_page-0001](https://user-images.githubusercontent.com/103475677/229973376-4d33ccb9-6733-4814-97bd-a413221f2387.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0002](https://user-images.githubusercontent.com/103475677/229973380-4b117a3e-e61e-49ae-9f4e-051b90b709b9.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0003](https://user-images.githubusercontent.com/103475677/229973383-f12dd456-75b9-4e95-a8de-21ab3e094e3d.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0004](https://user-images.githubusercontent.com/103475677/229973386-d634d4f4-a69e-48ba-85c7-eee041dba765.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0005](https://user-images.githubusercontent.com/103475677/229973390-9c289ac6-1ba2-4d4f-9bc3-c499181d86e4.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0006](https://user-images.githubusercontent.com/103475677/229973395-274965d2-1e87-4883-97ac-f9c99e3b85f3.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0007](https://user-images.githubusercontent.com/103475677/229973400-71954a65-4cd5-414b-94ab-39c2040c3f89.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0008](https://user-images.githubusercontent.com/103475677/229973405-0b21a568-6fbb-4b65-94eb-bd314c61a5cd.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0009](https://user-images.githubusercontent.com/103475677/229973412-44f98aa9-ed8e-4bff-82a3-691db792a4e9.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0010](https://user-images.githubusercontent.com/103475677/229973414-8243fcae-89a4-4ef4-b4c8-55ab08fc00d6.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0011](https://user-images.githubusercontent.com/103475677/229973419-9b9db52f-b4cc-4259-8f68-24ed728cec95.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0012](https://user-images.githubusercontent.com/103475677/229973423-2b6080d9-655f-4efe-a8fd-c79873602b60.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0013](https://user-images.githubusercontent.com/103475677/229973428-b3f32e50-a393-4881-8663-2440e5c0ad1b.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0014](https://user-images.githubusercontent.com/103475677/229973437-5866e776-2f44-438b-aa0b-f049a204b219.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0015](https://user-images.githubusercontent.com/103475677/229973441-bb67965f-ee23-4105-9cdd-1eed2850b5a7.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0016](https://user-images.githubusercontent.com/103475677/229973446-52423527-a87e-4afb-9523-dd1e759e889f.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0017](https://user-images.githubusercontent.com/103475677/229973449-991bf68c-596d-49f3-a7d8-2670c74a3b99.jpg)
+![Android App - Portofolio - Nanang Wudy SCA_page-0018](https://user-images.githubusercontent.com/103475677/229973454-6198a8f6-1e09-4076-b110-416e1f2afbf4.jpg)
